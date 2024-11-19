@@ -9,7 +9,7 @@ In addition to offering travel recommendations, English Traveller promotes respo
 #
 ### Related Links
 
-[CHatGPT](https://github.com/sourceduty/ChatGPT)
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
